@@ -9,6 +9,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - 🎯 Focus on building scalable and maintainable applications
 - 🤝 Open to collaboration and exciting opportunities
 
+## 🔭 Currently Working On
+
+- 🚀 Building full-stack applications with modern tech stacks
+- 📚 Exploring cloud architecture and DevOps practices
+- 🤖 Learning about AI/ML and its practical applications
+- 🌐 Contributing to open-source projects
+
 ## 🛠️ Tech Stack
 
 **Languages:**
