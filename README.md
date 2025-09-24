@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Ryan! 👋
 
-<!--
-**rzhang57/rzhang57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer with a passion for clean, efficient code
+- 🌱 Always learning and exploring new technologies
+- 🎯 Focus on building scalable and maintainable applications
+- 🤝 Open to collaboration and exciting opportunities
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript/TypeScript
+- Python
+- Java
+- C++
+- SQL
+
+**Frontend:**
+- React
+- HTML5 & CSS3
+- Vue.js
+- Tailwind CSS
+
+**Backend:**
+- Node.js
+- Express.js
+- Django/Flask
+- Spring Boot
+
+**Databases:**
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+
+**Tools & Platforms:**
+- Git & GitHub
+- Docker
+- AWS/GCP
+- Linux/Unix
+- CI/CD
+
+## 📊 GitHub Stats
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzhang57&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rzhang57&layout=compact&theme=vue-dark&hide_border=true)
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/rzhang57)
+- 📧 Email: ryan.zhang.dev@gmail.com
+- 🌐 Portfolio: [Coming Soon]
+
+---
+
+⭐️ From [rzhang57](https://github.com/rzhang57)
